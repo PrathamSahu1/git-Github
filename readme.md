@@ -39,4 +39,4 @@ Pull requests are raised when we fork a repository, make changes, and request th
 This is a brief introduction to Git and GitHub.
 
 ## Screenshot
-![Project Preview](git-graph.png)
+![Project Preview](images/git-graph.png)
