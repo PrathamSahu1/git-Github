@@ -37,3 +37,6 @@ Branches allow multiple teams to work asynchronously on the same project by intr
 Pull requests are raised when we fork a repository, make changes, and request the repository owner to merge them.
 
 This is a brief introduction to Git and GitHub.
+
+## Screenshot
+![Project Preview](images/screenshot.png)
